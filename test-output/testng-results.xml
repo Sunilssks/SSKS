@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-08T13:08:56 IST" name="Suite" finished-at="2022-01-08T13:09:07 IST" duration-ms="11137">
+    <groups>
+    </groups>
+    <test started-at="2022-01-08T13:08:56 IST" name="Test" finished-at="2022-01-08T13:09:07 IST" duration-ms="11137">
+      <class name="org.testng.ClassA">
+        <test-method signature="chromeBrowser(java.lang.String)[pri:0, instance:org.testng.ClassA@223aa2f7]" started-at="2022-01-08T13:08:56 IST" name="chromeBrowser" finished-at="2022-01-08T13:09:07 IST" duration-ms="11107" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.facebook.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeBrowser -->
+      </class> <!-- org.testng.ClassA -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
